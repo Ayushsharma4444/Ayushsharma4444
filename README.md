@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**Ayushsharma4444/Ayushsharma4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi, I'm Ayush Sharma </h1>
 <h3 align="center">FrontEnd Developer</h3>
 
@@ -28,9 +13,13 @@ Here are some ideas to get you started:
 - Ask me about *Secure Coding Techniques*
 
 <h3 align="left">Connect with me :</h3>
+<a href="mailto:ayushsharma81852@gmail.com">
+  <img src="https://example.com/gmail-badge-image.jpg" alt="Gmail Badge">
+</a>
 
-![Gmail Badge](mailto:ayushsharma81852@gmail.com)
-![Linkedin Badge](https://www.linkedin.com/in/ayush-sharma-b64187182/)
+<a href="https://www.linkedin.com/in/ayush-sharma-b64187182/">
+  <img src="https://example.com/linkedin-badge-image.jpg" alt="LinkedIn Badge">
+</a>
 
 
 <h3 align="left">Coding Profile :</h3>
