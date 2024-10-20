@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in H
 Let's connect and collaborate on exciting projects! You can reach me via:
 
 - [Profile](https://theayushsharma.in)
-- [LinkedIn](https://www.linkedin.com/in/ayush-sharma-b64187182/)
 - [Email](mailto:ayushsharma81852@gmail.com)
 - [LeetCode](https://leetcode.com/theayushsharma1/)
 
