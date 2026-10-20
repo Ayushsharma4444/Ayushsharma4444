@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in H
 - **Next js:** Intermediate
 - **Bootstrap:** Intermediate
 - **RestAPI:** Intermediate
+- **Python:** Intermediate
+- **FastAPI:** Intermediate
+- **GenAI:** Intermediate
+- **Langchain:** Intermediate
 
 ## Connect with Me
 
